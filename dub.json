@@ -1,0 +1,8 @@
+{
+	"name": "loopfree",
+	"description": "Experiments in loop-free programming",
+	"copyright": "Copyright © 2014, David Osborne",
+	"authors": ["David Osborne"],
+	"dependencies": {
+	}
+}

@@ -1,0 +1,5 @@
+*.o
+__test__library__
+*.swp
+.dub
+/loopfree
